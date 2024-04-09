@@ -2,7 +2,6 @@
 
 ## Overview
      Analyze.py: Entrypoint of whole project
-     MainFunction.py: Main function in entrypoint
      Models.py: All methods
 ----
 ## User Guide
