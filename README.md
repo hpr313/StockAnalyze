@@ -2,7 +2,9 @@
 This is a quite simple project to analyze the Japanese stock.
 Data Source is from this [website](https://jp.kabumap.com/servlets/kabumap/Action?SRC=marketList/base)
 ## Overview
+
 Belows are the explanation of python scripts.
+     
      Analyze.py: Entrypoint of whole project
      Models.py: All methods
 ----
