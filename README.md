@@ -1,6 +1,6 @@
 ﻿# StockAnalyze
 This is a quite simple project to analyze the Japanese stock.
-Data Source is from [株マット](https://jp.kabumap.com/servlets/kabumap/Action?SRC=marketList/base).
+Data Source is from [株マップ.com](https://jp.kabumap.com/servlets/kabumap/Action?SRC=marketList/base).
 
 ## Overview
 
