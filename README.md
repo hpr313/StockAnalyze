@@ -5,7 +5,7 @@ This is a quite simple project to analyze the Japanese stock.
      Models.py: All methods
 ----
 ## User Guide
-STEP 1. Download the csv.file from following link and save in the same directory of this project. 
+STEP 1. Download the csv.file from this [link](https://xgf.nu/MdWvm) and save in the same directory of this project. 
         
 STEP 2. Input the following command in cmd or anaconda prompt to run this program:
     
